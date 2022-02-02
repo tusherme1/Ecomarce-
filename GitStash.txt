@@ -1,0 +1,17 @@
+Git Stash
+Deployed our application into Production on 15th Jan 2022
+
+You worked on Admin Module
+
+18th Jan Client has given some enhancements in Admin Module
+You have taken up that task (Task #1) and started working on from 19th Jan which may take 5 days
+
+21st Jan Client has reported critical defect in Admin Module in prod environmnet
+
+Client is assigned a defect (Task #2) to you on 22nd Jan
+
+You are in the middle of Task #1, You have to stop Task #1 and finish Task #2
+
+WhatsApp Functionality
+
+Developed Code
