@@ -12,6 +12,3 @@ Client is assigned a defect (Task #2) to you on 22nd Jan
 
 You are in the middle of Task #1, You have to stop Task #1 and finish Task #2
 
-WhatsApp Functionality
-
-Developed Code
